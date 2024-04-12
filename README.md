@@ -1,2 +1,2 @@
 # Wurm
-One of my first programming projects
+One of my first programming project
